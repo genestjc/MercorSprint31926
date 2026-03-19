@@ -1,0 +1,23 @@
+{
+  "expert_name": "Joseph Genest",
+  "task_id": "TASK_14973",
+  "timestamp": "2026-03-19T14:40:42.934111+00:00",
+  "repo_url": "git@github.com:genestjc/MercorSprint31926.git",
+  "base_commit": null,
+  "assignments": {
+    "model_b": "claude-opus-4-6",
+    "model_a": "claude-strudel-v6-p"
+  },
+  "code_names": {
+    "model_b": "Ibis",
+    "model_a": "Heron"
+  },
+  "setup_verified": true,
+  "experiment_metadata": {
+    "setup_script_version": "2.1.0-v2",
+    "platform": "Darwin",
+    "claude_version_downloaded": "2026-03-19",
+    "setup_duration_seconds": 399.41
+  },
+  "last_submission_version": 0
+}
